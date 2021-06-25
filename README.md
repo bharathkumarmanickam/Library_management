@@ -9,12 +9,12 @@ git clone https://github.com/bharathkumarmanickam/Library_management.git
 **Installing Procedure:**
 
 Step 1 : Download \
-Step 2 : create database naame **libmanage** in mysql supporting software like (phpmyadmin,mysql workbench etc...)\
+Step 2 : create database name **libmanage** in mysql supporting software like (phpmyadmin,mysql workbench etc...)\
 Step 3 : open terminal or cmd navigate to the file \
          For example (cd Library_management)\
 Step 4 : In terminal Enter **php artisan migrate**\
 Step 5 : In terminal Enter **php artisan serve**\
-Step 6 : Go to browser and naviagate to 127.0.0.0:8000/login\
+Step 6 : Go to browser and navigate to 127.0.0.0:8000/login\
 \
 \
 \
